@@ -1,8 +1,8 @@
-<h1 align="center" class="line-1 anim-typewriter"> design-system
+<h1 align="center" class="line-1 anim-typewriter"> Design System + Documentation Storybook
 </h1>
 
 <div align="center">
-        <img align="center" src="./.github/snoopPao.png" alt="Imagem do projeto" width="57%"> 
+        <img align="center" src="./.github/ds-storybook.png" alt="Imagem do projeto" width="70%"> 
         
 </div>
 
@@ -45,7 +45,12 @@ Storybook is a frontend workshop for building UI components and pages in isolati
 
 <p float="left">
 
-<img alt="Example Tech"  src="./.github/ nome da Tech" width="ajust do icon"   hspace="4"/>
+<img alt="ReactJS"  src="./.github/reactjs.svg" width="40px"   hspace="4"/>
+<img alt="TypeScript"  src="./.github/typescript.svg" width="40px"   hspace="4"/>
+<img alt="Storybook"  src="./.github/storybook.svg" width="40px"   hspace="4"/>
+<img alt="Tailwindcss"  src="./.github/tailwindcss.svg" width="40px"   hspace="4"/>
+
+
 
 
 
