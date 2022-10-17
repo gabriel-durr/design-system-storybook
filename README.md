@@ -73,7 +73,7 @@ Storybook is a frontend workshop for building UI components and pages in isolati
 1. <b>Clone the project</b>
 
 ```bash
-  $ git clone https://github.com/gabriel-durr/design-system.git && cd design-system
+  $ git clone https://github.com/gabriel-durr/design-system-storybook.git && cd design-system-storybook
 ```
 
 2. <b>Install dependencies</b>
